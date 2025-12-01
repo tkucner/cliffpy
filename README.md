@@ -280,20 +280,14 @@ If you use CLiFF-map in your research, please cite:
 
 ```bibtex
 @article{cliffmap2024,
-  title={CLiFF-map: Circular-Linear Flow Field Mapping for Dynamic Environment Analysis},
-  author={Your Name},
-  journal={Journal of Computational Science},
-  year={2024},
-  publisher={Elsevier}
+  
 }
 ```
 
 ## 🆘 Support
 
-- **Documentation**: [https://cliffmap.readthedocs.io](https://cliffmap.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/cliffmap/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/cliffmap/discussions)
-- **Email**: support@cliffmap.org
+- **Issues**: [GitHub Issues](https://github.com/tkucner/cliffmap/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/tkucner/cliffmap/discussions)
 
 ## 🔬 Research Applications
 
